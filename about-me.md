@@ -32,7 +32,7 @@ September 2024 - Present<br>
 Graduate Talent (SOC DFT Design Engineering)<br>
 •	Integrated components across domains at both SoC and subsystem levels, ensuring functional alignment and enabling cross-team collaboration<br>
 •	Investigated and resolved design defects across multiple chip components, enhancing system stability and integration quality<br>
-•	Developed Python automation scripts and created Power BI reports to streamline integration, debugging, and reporting workflows, significantly reducing manual tasks and accelerating engineering processes<br>
+•	Developed Python automation scripts and created Power BI reports to streamline integration, debugging, and reporting workflows, significantly reducing manual tasks and accelerating engineering processes<br><br>
 
 October 2022 – January 2023<br>
 {:.faded}
