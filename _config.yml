@@ -53,8 +53,8 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  # - title:             About
-  #   url:               /about/
+  - title:             About
+    url:               /about/
   - title:             About Me
     url:               /about-me/
   - title:             Portfolio
