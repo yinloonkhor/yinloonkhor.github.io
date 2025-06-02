@@ -10,14 +10,18 @@ He is currently a graduate trainee with the DFx team at Intel Corporation in Bay
 His interests lie in machine learning, deep learning, computer vision, and large language models (LLMs). During his time at university, he actively pursued these areas through research and competition. 
 He was the Champion of the IEEE Big Data Cup 2024 – Building Extraction Generalization Challenge, and one of the Top 10 Global Semi-Finalists in the 2024 EY Open Science Data Challenge. In addition, he has published two conference papers in the fields of deep learning and computer vision.
 
-## Education
-
-🎓 Bachelor of Electrical and Electronic Engineering with Honours<br>
-Universiti Tunku Abdul Rahman (UTAR) – Sungai Long, Malaysia<br>
-Class of 2024<br>
+## 🎓 Education
+Bachelor of Electrical and Electronic Engineering with Honours, 2024<br>
+Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia<br>
+{:.faded}
 •	CGPA: 3.94/4.00 (First Class Honours)<br>
-•	Final Year Project: Object Detection for Smart Agriculture using YOLOv5<br>
-•	Relevant Coursework: Mathematics for Engineering, Object-Oriented Programming, Data Communications and Networking, Computer Organization and Architecture, and Microprocessor and Microcontroller Systems<br>
+•	Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning<br>
+•	Relevant Coursework: Mathematics for Engineering, Object-Oriented Programming, Data Communications and Networking, 
+Computer Organization and Architecture, and Microprocessor and Microcontroller Systems<br>
 
+## 🛠️ Technical Skills and Certification
+•	Programming Languages: Python, JavaScript, React, C++, HTML/CSS
+•	Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Unix
+•	Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
 
 
