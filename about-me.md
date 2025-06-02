@@ -3,7 +3,6 @@ layout: about
 ---
 
 # About Me
-
 Yin Loon Khor holds a B.Eng. (Hons.) degree in Electrical and Electronic Engineering from Universiti Tunku Abdul Rahman (UTAR), Malaysia, awarded in 2024. 
 He is currently a graduate trainee with the DFx team at Intel Corporation in Bayan Lepas, where he works on system-on-chip (SoC) and subsystem-level integration, defect resolution across multi-domain components, and automation scripting using Python.<br>
 
@@ -42,6 +41,6 @@ Industrial Trainee<br>
 •	Developed automated hardware testing using Python script, reducing manual validation steps and ensuring consistent and accurate test execution<br>
 •	Performed circuit testing and debugging on switch mode power supply, identifying and resolving issues to ensure proper functionality and design compliance<br>
 
-## Other Skills & Activities
+## 🧩 Other Skills & Activities
 - Language: Chinese (Native), English (MUET Band 4.5, IELTS Band 7.5), Malay<br>
 - Activities: Chairperson of UTAR IEEE Student Chapter 2022/2023 & Treasurer of UTAR IMechE Student Chapter 2022/2023
