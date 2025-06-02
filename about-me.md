@@ -10,7 +10,7 @@ His interests lie in machine learning, deep learning, computer vision, and large
 He was the Champion of the IEEE Big Data Cup 2024 – Building Extraction Generalization Challenge, and one of the Top 10 Global Semi-Finalists in the 2024 EY Open Science Data Challenge. In addition, he has published two conference papers in the fields of deep learning and computer vision.
 
 ## 🎓 Education
-2020 - 2024<br>
+2020 - 2024
 {:.faded}
 **Bachelor of Electrical and Electronic Engineering with Honours**<br>
 Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia<br>
@@ -25,7 +25,7 @@ Computer Organization and Architecture, and Microprocessor and Microcontroller S
 - Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)<br>
 
 ## 💼 Working Experience
-September 2024 - Present<br>
+September 2024 - Present
 {:.faded}
 **Intel Electronics Malaysia Sdn Bhd**<br>
 Graduate Talent (SOC DFT Design Engineering)<br>
@@ -33,7 +33,7 @@ Graduate Talent (SOC DFT Design Engineering)<br>
 - Investigated and resolved design defects across multiple chip components, enhancing system stability and integration quality<br>
 - Developed Python automation scripts and created Power BI reports to streamline integration, debugging, and reporting workflows, significantly reducing manual tasks and accelerating engineering processes<br><br>
 
-October 2022 – January 2023<br>
+October 2022 – January 2023
 {:.faded}
 **Keysight Technologies Malaysia Sdn Bhd**<br>
 Industrial Trainee<br>
