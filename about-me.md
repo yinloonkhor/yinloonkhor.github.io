@@ -10,8 +10,7 @@ His interests lie in machine learning, deep learning, computer vision, and large
 He was the Champion of the IEEE Big Data Cup 2024 – Building Extraction Generalization Challenge, and one of the Top 10 Global Semi-Finalists in the 2024 EY Open Science Data Challenge. In addition, he has published two conference papers in the fields of deep learning and computer vision.
 
 ## 🎓 Education
-2020 - 2024
-{:.faded}
+2020 - 2024{:.faded}
 **Bachelor of Electrical and Electronic Engineering with Honours**<br>
 Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia<br>
 - CGPA: 3.94/4.00 (First Class Honours)<br>
