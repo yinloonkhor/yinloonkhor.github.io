@@ -19,7 +19,7 @@ Computer Organization and Architecture, and Microprocessor and Microcontroller S
 
 ## 🛠️ Technical Skills and Certification
 - Programming Languages: Python, JavaScript, React, C++, HTML/CSS
-- Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Unix
+- Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Linux
 - Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
 
 ## 💼 Working Experience
