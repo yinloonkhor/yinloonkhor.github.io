@@ -28,8 +28,8 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 - **Synthetic augmentation** created 5x more samples for LP and OCR tasks.
 
 ## 📊 Results
-| Task        | mAP (best config) |
-|-------------|:-----------------|
+| Task        | mAP (best config)|
+|-------------|------------------|
 | OCR         | 0.778            |
 | LP Detection| 0.963            |
 | VCR         | 0.881            |
