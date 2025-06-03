@@ -27,18 +27,9 @@ September 2024 - Present
 {:.faded}
 **Intel Electronics Malaysia Sdn Bhd**<br>
 Graduate Talent (SOC DFT Design Engineering)
-- Integrated components across domains at both SoC and subsystem levels, ensuring functional alignment and enabling cross-team collaboration
-- Investigated and resolved design defects across multiple chip components, enhancing system stability and integration quality
-- Developed Python automation scripts and created Power BI reports to streamline integration, debugging, and reporting workflows, significantly reducing manual tasks and accelerating engineering processes<br><br>
 
 October 2022 – January 2023
 {:.faded}
 **Keysight Technologies Malaysia Sdn Bhd**<br>
 Industrial Trainee
-- Conducted prototype hardware evaluation and verification to ensure adherence to design specifications
-- Developed automated hardware testing using Python script, reducing manual validation steps and ensuring consistent and accurate test execution
-- Performed circuit testing and debugging on switch mode power supply, identifying and resolving issues to ensure proper functionality and design compliance
 
-## 🧩 Other Skills & Activities
-- Language: Chinese (Native), English (MUET Band 4.5, IELTS Band 7.5), Malay
-- Activities: Chairperson of UTAR IEEE Student Chapter 2022/2023 & Treasurer of UTAR IMechE Student Chapter 2022/2023
