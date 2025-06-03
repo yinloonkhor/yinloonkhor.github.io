@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Yin Loon Khor holds a B.Eng. (Hons.) in Electrical and Electronic Engineering from UTAR, Malaysia (2024) and is currently a graduate trainee in the DFx team at Intel Corporation, focusing on SoC and subsystem integration, defect resolution, and Python automation. His interests include machine learning, deep learning, computer vision, and large language models, which he explored through research and competitions. He was the Champion of the IEEE Big Data Cup 2024, a Top 10 Global Semi-Finalist in the EY Open Science Data Challenge 2024, and has published two conference papers in related fields.
+    Yin Loon Khor holds a B.Eng. (Hons.) in Electrical and Electronic Engineering from UTAR, Malaysia (2024) and is currently a graduate trainee in the DFx team at Intel Corporation. His interests include machine learning, deep learning, computer vision, and large language models, which he explored through research and competitions. He was the Champion of the IEEE Big Data Cup 2024, a Top 10 Global Semi-Finalist in the EY Open Science Data Challenge 2024, and has published two conference papers in related fields.
 
   # This photo will be used in the about section
   picture:
