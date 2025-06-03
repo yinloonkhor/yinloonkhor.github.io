@@ -14,8 +14,6 @@ His interests lie in machine learning, deep learning, computer vision, and large
 Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
 - CGPA: 3.94/4.00 (First Class Honours)
 - Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning
-- Relevant Coursework: Mathematics for Engineering, Object-Oriented Programming, Data Communications and Networking, 
-Computer Organization and Architecture, and Microprocessor and Microcontroller Systems
 
 ## 🛠️ Technical Skills and Certification
 - Programming Languages: Python, JavaScript, React, C++, HTML/CSS
