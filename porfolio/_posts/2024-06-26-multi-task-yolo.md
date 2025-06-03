@@ -28,17 +28,12 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 - **Synthetic augmentation** created 5x more samples for LP and OCR tasks.
 
 ## 📊 Results
+
 | Task | mAP (best config) |
 |------|-------------------|
 | OCR | 0.778 |
 | LP Detection | 0.963 |
 | VCR | 0.881 |
-
-| Task        | mAP (best config)|
-|-------------|------------------|
-| OCR         | 0.778            |
-| LP Detection| 0.963            |
-| VCR         | 0.881            |
 
 - **Model E3** (multi-head with tuned loss weights) achieved the highest average mAP.
 - **36 FPS on GPU**, 9.5 FPS on CPU — enabling near real-time performance.
