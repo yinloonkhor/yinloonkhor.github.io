@@ -29,7 +29,7 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 
 ### 📊 Results
 | Task        | mAP (best config) |
-|-------------|------------------|
+|-------------|:-----------------|
 | OCR         | 0.778            |
 | LP Detection| 0.963            |
 | VCR         | 0.881            |
