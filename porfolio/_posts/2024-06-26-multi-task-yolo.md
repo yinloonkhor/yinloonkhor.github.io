@@ -44,6 +44,9 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 | **E3: E with frozen VCR head, 6:3:1 loss weightage and mosaic off** | **0.778**   | **0.963**  | **0.881**   | **0.874** | **20+40** |
 | E4: E with frozen VCR head, 7:2:1 loss weightage and mosaic off | 0.764       | 0.953      | 0.870       | 0.862   | 20+40    |
 
+Ablation study of YOLOv8 variants. Model E3 achieved the best overall performance with an average mAP of 0.874.
+{:.figcaption}
+
 - **Model E3** (multi-head with tuned loss weights) achieved the highest average mAP, comparable to single-head, single-task and multi-task models.
 - **36 FPS on GPU**, 9.5 FPS on CPU — enabling near real-time performance.
 - **~3× faster** than sequential models, with fewer parameters than three separate models.
