@@ -28,14 +28,6 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 - **Synthetic data generation and augmentation** expanded the dataset by creating 5× more samples for LP and OCR tasks using synthetic variations, and an additional 3× increase through data augmentation techniques.
 
 ## 📊 Results
-| Model Configuration                                              | mAP50 (OCR) | mAP50 (LP) | mAP50 (VCR) | Average | Epochs   |
-|-----------------------------------------------------------------|-------------|------------|-------------|---------|----------|
-| **1 Head, 1 Task**                                               |             |            |             |         |          |
-
-| Model Configuration | mAP50 (OCR) |
-|---------------------|-------------|
-| 1 Head, 1 Task      |             |
-
 
 | Model Configuration                                              | mAP50 (OCR) | mAP50 (LP) | mAP50 (VCR) | Average | Epochs   |
 |-----------------------------------------------------------------|-------------|------------|-------------|---------|----------|
