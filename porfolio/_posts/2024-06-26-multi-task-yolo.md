@@ -31,6 +31,15 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 | Model Configuration                                              | mAP50 (OCR) | mAP50 (LP) | mAP50 (VCR) | Average | Epochs   |
 |-----------------------------------------------------------------|-------------|------------|-------------|---------|----------|
 | **1 Head, 1 Task**                                               |             |            |             |         |          |
+
+| Model Configuration | mAP50 (OCR) |
+|---------------------|-------------|
+| 1 Head, 1 Task      |             |
+
+
+| Model Configuration                                              | mAP50 (OCR) | mAP50 (LP) | mAP50 (VCR) | Average | Epochs   |
+|-----------------------------------------------------------------|-------------|------------|-------------|---------|----------|
+| **1 Head, 1 Task**                                               |             |            |             |         |          |
 | A: OCR (Pretrained)                                              | 0.819       | -          | -           | 0.828   | 20+80    |
 | B: LP                                                            | -           | 0.956      | -           |         | 80       |
 | C: VCR                                                           | -           | -          | 0.708       |         | 80       |
