@@ -19,13 +19,13 @@ This project presents a unified deep learning model for **real-time vehicle iden
 We extended YOLOv8 by adding **three parallel detection heads**, each tailored for one task. All heads share a common backbone (CSPDarknet53), promoting **feature sharing** while preserving task-specific accuracy. The model uses anchor-free detection and optimized loss functions.
 
 - **Multi-task loss weighting**: `0.6 (OCR) : 0.3 (LP) : 0.1 (VCR)`  
-- **Synthetic data generation** was used to augment training data, particularly for OCR.
+- **Synthetic data generation** was used to augment the training set, especially for OCR, by generating five synthetic variations for each real image to improve model robustness.
 
 ## 🧪 Dataset
 - Custom-labeled dataset of **1,555 images** from residential areas.  
 - Each image is annotated for characters (OCR), license plates (LP), and car colours (VCR).  
-- Data split: 70% training, 20% validation, 10% test.  
-- **Synthetic augmentation** created 5x more samples for LP and OCR tasks.
+- Data split: 70% training, 20% validation, 10% test.
+- **Synthetic data generation and augmentation** expanded the dataset by creating 5× more samples for LP and OCR tasks using synthetic variations, and an additional 3× increase through data augmentation techniques.
 
 ## 📊 Results
 
@@ -34,10 +34,12 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 | OCR | 0.778 |
 | LP Detection | 0.963 |
 | VCR | 0.881 |
+| Average | 0.874 |
 
-- **Model E3** (multi-head with tuned loss weights) achieved the highest average mAP.
+- **Model E3** (multi-head with tuned loss weights) achieved the highest average mAP, comparable to single-head, single-task and multi-task models.
 - **36 FPS on GPU**, 9.5 FPS on CPU — enabling near real-time performance.
 - **~3× faster** than sequential models, with fewer parameters than three separate models.
+- **Multithreaded** deployment of Model E3 improved inference speed by 45.7% on GPU and 69.1% on CPU for single-stream video processing.
 
 ## 💡 Key Contributions
 - First unified, single-stage YOLOv8 model combining OCR, LP detection, and VCR.  
