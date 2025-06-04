@@ -15,6 +15,8 @@ This project presents a unified deep learning model for **real-time vehicle iden
 - Optical Character Recognition (OCR)  
 - Vehicle Colour Recognition (VCR)  
 
+> 🏆 *This project was published in **IEEE EAIS 2024** and won the **Gold Prize** in UTAR’s LKC FES FYP Poster Competition 2024.*
+
 ## ⚙️ Methodology
 We extended YOLOv8 by adding **three parallel detection heads**, each tailored for one task. All heads share a common backbone (CSPDarknet53), promoting **feature sharing** while preserving task-specific accuracy. The model uses anchor-free detection and optimized loss functions.
 
