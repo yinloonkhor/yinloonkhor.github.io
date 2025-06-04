@@ -28,13 +28,20 @@ We extended YOLOv8 by adding **three parallel detection heads**, each tailored f
 - **Synthetic data generation and augmentation** expanded the dataset by creating 5× more samples for LP and OCR tasks using synthetic variations, and an additional 3× increase through data augmentation techniques.
 
 ## 📊 Results
-
-| Task | mAP (best config) |
-|------|-------------------|
-| OCR | 0.778 |
-| LP Detection | 0.963 |
-| VCR | 0.881 |
-| Average | 0.874 |
+| Model Configuration                                              | mAP50 (OCR) | mAP50 (LP) | mAP50 (VCR) | Average | Epochs   |
+|------------------------------------------------------------------|-------------|------------|-------------|---------|----------|
+| **1 Head, 1 Task**                                               |             |            |             |         |          |
+| A: OCR (Pretrained)                                              | 0.819       | -          | -           | 0.828   | 20+80    |
+| B: LP                                                            | -           | 0.956      | -           |         | 80       |
+| C: VCR                                                           | -           | -          | 0.708       |         | 80       |
+| **1 Head, 3 Tasks (Pretrained)**                                 |             |            |             |         |          |
+| D                                                                | 0.791       | 0.874      | 0.891       | 0.852   | 80+80    |
+| **3 Head, 3 Tasks (Pretrained)**                                 |             |            |             |         |          |
+| E                                                                | 0.735       | 0.965      | 0.862       | 0.854   | 20+40    |
+| E1: E with disabled mosaic                                       | 0.755       | 0.966      | 0.817       | 0.846   | 20+40    |
+| E2: E with frozen VCR head, 5:4:1 loss weightage and mosaic off | 0.755       | 0.958      | 0.849       | 0.854   | 20+40    |
+| **E3: E with frozen VCR head, 6:3:1 loss weightage and mosaic off** | **0.778**   | **0.963**  | **0.881**   | **0.874** | **20+40** |
+| E4: E with frozen VCR head, 7:2:1 loss weightage and mosaic off | 0.764       | 0.953      | 0.870       | 0.862   | 20+40    |
 
 - **Model E3** (multi-head with tuned loss weights) achieved the highest average mAP, comparable to single-head, single-task and multi-task models.
 - **36 FPS on GPU**, 9.5 FPS on CPU — enabling near real-time performance.
