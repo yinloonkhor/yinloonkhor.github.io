@@ -9,7 +9,7 @@ image:
 # Cross-City Building Instance Segmentation: From More Data to Diffusion-Augmentation
 ## By Yi Jie Wong & Yin Loon Khor et al
 
-📄 [Technical Report](https://doubley-begc2024.github.io/) | 💻 [Source Code](https://github.com/DoubleY-BEGC2024/OurSolution) | 📝 [Paper](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)
+📄 [Technical Report](https://doubley-begc2024.github.io/) | 💻 [Source Code](https://github.com/DoubleY-BEGC2024/OurSolution) | 📝 [Paper](https://ieeexplore.ieee.org/abstract/document/10825702)
 
 This code is part of our solution for [2024 IEEE BigData Cup: Building Extraction Generalization Challenge (IEEE BEGC2024)](https://www.kaggle.com/competitions/building-extraction-generalization-2024/overview). Specifically, our solutions involved 2 methods:
 1. Additional dataset ➡️ extract additional building footprint data from the Microsoft Building Footprint (BF) dataset for Redmond, Washington, and Las Vegas, Nevada.
@@ -23,4 +23,4 @@ Please visit our codes in:
 
 ## Cite this repository
 
-Our paper has been accepted by IEEE BigData 2024! Please cite our paper if this repo helps your research. The preprint is available [here](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)
+Our paper has been accepted by IEEE BigData 2024! Please cite our paper if this repo helps your research. Both the [official IEEE version](https://ieeexplore.ieee.org/abstract/document/10825702) and the [preprint](https://doi.org/10.36227/techrxiv.173091008.80781383/v1) version are available.
