@@ -7,6 +7,7 @@ image:
 ---
 
 # Multi-Task YOLO for Vehicle Colour Recognition and Automatic License Plate Recognition
+## By Yin Loon Khor & Yi Jie Wong et al
 💻 [Source Code](https://github.com/yinloonkhor/YOLOv8-multi-detection-head/tree/main) | 📝 [Paper](https://ieeexplore.ieee.org/document/10570013)
 
 ## 🧠 Overview
