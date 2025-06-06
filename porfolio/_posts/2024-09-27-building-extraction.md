@@ -23,4 +23,4 @@ Please visit our codes in:
 
 ## Cite this repository
 
-Our paper has been accepted by **IEEE BigData 2024**! Please cite our paper if this repo helps your research. Both the [official IEEE version](https://ieeexplore.ieee.org/abstract/document/10825702) and the [preprint](https://doi.org/10.36227/techrxiv.173091008.80781383/v1) version are available.
+Our paper has been accepted by **IEEE BigData 2024**! Please cite our paper if this repo helps your research. Both the **[official IEEE](https://ieeexplore.ieee.org/abstract/document/10825702)** and the **[preprint](https://doi.org/10.36227/techrxiv.173091008.80781383/v1)** version are available.
