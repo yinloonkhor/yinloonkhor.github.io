@@ -10,7 +10,11 @@ SmarTax is an AI-powered web application developed as part of the **[Alibaba Clo
 
 SmarTax was designed to **simplify and streamline the entire tax preparation process**. The application automatically tracks income and expenses, intelligently categorizes transactions according to tax rules, and offers **personalized deduction suggestions** — all tailored for users without an accounting background.
 
-What makes SmarTax stand out is its combination of powerful features packed into a clean, intuitive user experience. Users can extract data from receipts and PDFs using built-in OCR, interact with a tax-focused AI chatbot for quick answers, and receive actionable insights to maximize tax savings. By integrating domain expertise with modern AI tooling, SmarTax helps make tax filing less stressful and more accurate.
+What makes SmarTax stand out is its combination of powerful features packed into a clean, intuitive user experience:
+- Extract data from receipts and PDFs using built-in OCR
+- Interact with a tax-focused AI chatbot for quick answers
+- Receive actionable insights to maximize tax savings
+- Benefit from the integration of domain expertise with modern AI tooling to make tax filing less stressful and more accurate
 
 The system is built with a Vue.js frontend and a Laravel + FastAPI backend, hosted on Alibaba Cloud infrastructure (ECS and RDS). It also leverages LLMs and OCR for document understanding and intelligent assistance.
 
