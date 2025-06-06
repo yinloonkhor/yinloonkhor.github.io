@@ -10,9 +10,9 @@ image:
 ## Cloud Computing · Big Data · AI
 📰 [Article](https://www.thestar.com.my/news/education/2024/01/28/utar-students-to-represent-msia)
 
-I'm excited to share that I had the honour of winning the Grand Prize in the Cloud Track category at the Huawei ICT Competition 2023–2024 APAC – Malaysia, together with my teammates Eddy Lai Thin Jun and Wong Tack Hwa, under the mentorship of Ir Ts Dr Tham Mau Luen.
+I'm excited to share that I had the honour of winning the **Grand Prize in the Cloud Track** category at the **Huawei ICT Competition 2023–2024 APAC – Malaysia**, together with my teammates Eddy Lai Thin Jun and Wong Tack Hwa, under the mentorship of Ir Ts Dr Tham Mau Luen.
 
-This competition was more than just a test—it was a journey that challenged us to sharpen our theoretical foundations and practical ICT skills in Cloud Computing, Big Data, and Artificial Intelligence (AI). We dedicated countless hours to mastering the Huawei Cloud ecosystem, diving deep into infrastructure technologies, and applying our learning in a rigorous exam environment that simulated real-world technical scenarios.
+This competition was more than just a test—it was a journey that challenged us to **sharpen our theoretical foundations and practical ICT skills in Cloud Computing, Big Data, and Artificial Intelligence (AI)**. We dedicated countless hours to mastering the Huawei Cloud ecosystem, diving deep into infrastructure technologies, and applying our learning in a rigorous exam environment that simulated real-world technical scenarios.
 
 ## 🏅 Achievement:
 - National Grand Prize Winner – Cloud Track
@@ -23,4 +23,4 @@ This competition was more than just a test—it was a journey that challenged us
 - Strengthened hands-on ICT skills using Huawei Cloud services
 - Developed greater resilience and teamwork in a high-pressure, competitive setting
 
-This experience has been a milestone in my cloud journey—fostering both technical growth and confidence to contribute meaningfully in real-world cloud environments. Representing Malaysia at the Regional Round was a privilege, and I'm excited to continue building on this momentum as I explore further opportunities in cloud technologies and AI innovation.
+This experience has been a milestone in my cloud journey—fostering both **technical growth and confidence** to contribute meaningfully in real-world cloud environments. Representing **Malaysia at the Regional Round** was a privilege, and I'm excited to continue building on this momentum as I explore further opportunities in cloud technologies and AI innovation.
