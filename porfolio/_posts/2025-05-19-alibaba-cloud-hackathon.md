@@ -1,5 +1,9 @@
 ---
 layout: post
+description: > 
+  SmarTax dashboard
+image: 
+  path: https://github.com/user-attachments/assets/11fe9921-553a-4726-8133-d1f8c5a1c903
 ---
 
 # SmarTax - Expense Tracker & Tax Filing Assistant for Freelancers
