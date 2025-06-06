@@ -7,7 +7,7 @@ image:
 ---
 
 # SmarTax - Expense Tracker & Tax Filing Assistant for Freelancers
-## Team CincAI (Khor Yin Loon, Liong Soon Yik, Ong Yi Jie, Simon Chock Shi Chao)
+## Team: CincAI (Khor Yin Loon, Liong Soon Yik, Ong Yi Jie, Simon Chock Shi Chao)
 💻 [Source Code](https://github.com/yinloonkhor/CincAI-Alibaba-Hackathon-2025/tree/main) | 📺 [Demo Video](https://www.youtube.com/watch?v=MVwWTnPA8f8&ab_channel=SoonYikLiong)
 
 SmarTax is an AI-powered web application developed as part of the **[Alibaba Cloud AI Hackathon 2025](https://www.alibabacloud.com/en/developer/malaysia-ai-hackathon?_p_lc=1)**, aimed at solving a major pain point for freelancers and gig workers: **the complexity of tax filing**. Many freelancers struggle with tax compliance due to scattered financial records, confusing tax forms, and unclear deduction rules. Without access to professional accounting services or intelligent tools, they risk **underreporting or overpaying** — which can lead to financial losses or legal issues.
