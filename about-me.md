@@ -7,19 +7,6 @@ Yin Loon Khor holds a B.Eng. (Hons.) degree in Electrical and Electronic Enginee
 
 His interests lie in machine learning, deep learning, computer vision, and large language models (LLMs). During his time at university, he actively pursued these areas through research and competition. He was the Champion of the IEEE Big Data Cup 2024 – Building Extraction Generalization Challenge, and one of the Top 10 Global Semi-Finalists in the 2024 EY Open Science Data Challenge. In addition, he has published two conference papers in the fields of deep learning and computer vision.
 
-## 🎓 Education
-2020 - 2024
-{:.faded}
-**Bachelor of Electrical and Electronic Engineering with Honours**<br>
-Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
-- CGPA: 3.94/4.00 (First Class Honours)
-- Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning
-
-## 🛠️ Technical Skills and Certification
-- Programming Languages: Python, JavaScript, React, C++, HTML/CSS
-- Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Linux
-- Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
-
 ## 💼 Working Experience
 September 2024 - Present
 {:.faded}
@@ -31,3 +18,15 @@ October 2022 – January 2023
 **Keysight Technologies Malaysia Sdn Bhd**<br>
 Industrial Trainee
 
+## 🛠️ Technical Skills and Certification
+- Programming Languages: Python, JavaScript, React, C++, HTML/CSS
+- Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Linux
+- Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
+
+## 🎓 Education
+2020 - 2024
+{:.faded}
+**Bachelor of Electrical and Electronic Engineering with Honours**<br>
+Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
+- CGPA: 3.94/4.00 (First Class Honours)
+- Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning
