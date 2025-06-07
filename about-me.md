@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Yin Loon Khor holds a B.Eng. (Hons.) degree in Electrical and Electronic Engineering from Universiti Tunku Abdul Rahman (UTAR), Malaysia, awarded in 2024. He is currently a graduate trainee with the DFx team at Intel Corporation in Bayan Lepas, where he works on system-on-chip (SoC) and subsystem-level integration, defect resolution across multi-domain components, and automation scripting using Python.<br>
+Yin Loon Khor holds a B.Eng. (Hons.) degree in Electrical and Electronic Engineering from Universiti Tunku Abdul Rahman (UTAR), Malaysia, awarded in 2024. He is currently a graduate trainee with the DFx team at Intel Microelectronics in Penang, where he works on system-on-chip (SoC) and subsystem-level integration, resolves design defects across multi-domain components, and develops a RAG chatbot for internal knowledge retrieval, along with Python-based automation workflows to streamline engineering processes.<br>
 
 His interests lie in machine learning, deep learning, computer vision, and large language models (LLMs). During his time at university, he actively pursued these areas through research and competition. He was the Champion of the IEEE Big Data Cup 2024 – Building Extraction Generalization Challenge, and one of the Top 10 Global Semi-Finalists in the 2024 EY Open Science Data Challenge. In addition, he has published two conference papers in the fields of deep learning and computer vision.
 
