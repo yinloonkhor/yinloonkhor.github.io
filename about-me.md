@@ -18,11 +18,6 @@ October 2022 – January 2023
 **Keysight Technologies Malaysia Sdn Bhd**<br>
 Industrial Trainee
 
-## 🛠️ Technical Skills and Certification
-- Programming Languages: Python, JavaScript, React, C++, HTML/CSS
-- Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Linux
-- Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
-
 ## 🎓 Education
 2020 - 2024
 {:.faded}
@@ -30,3 +25,8 @@ Industrial Trainee
 Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
 - CGPA: 3.94/4.00 (First Class Honours)
 - Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning
+
+## 🛠️ Technical Skills and Certification
+- Programming Languages: Python, JavaScript, React, C++, HTML/CSS
+- Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, Git, MATLAB, Power BI, Linux
+- Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
