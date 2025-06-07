@@ -10,7 +10,7 @@ His interests lie in machine learning, deep learning, computer vision, and large
 ## 💼 Working Experience
 September 2024 - Present
 {:.faded}
-**Intel Electronics Malaysia Sdn Bhd**<br>
+**Intel Microelectronics Malaysia Sdn Bhd**<br>
 Graduate Talent (SOC DFT Design Engineering)
 
 October 2022 – January 2023
