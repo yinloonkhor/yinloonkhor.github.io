@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [portfolio]
 description: > 
   Multi-task YOLOv8 model architecture
 image: 

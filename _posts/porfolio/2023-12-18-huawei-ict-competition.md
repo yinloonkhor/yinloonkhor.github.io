@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [portfolio]
 description: > 
   Victorious: Lai (far left), Khor and Tham (second and first from right, respectively) posing for a photo with Huawei Asia-Pacific Strategy and Marketing vice president Zhang Fupeng (second from left).
 image: 

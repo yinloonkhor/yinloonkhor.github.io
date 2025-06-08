@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [portfolio]
 description: > 
   SmarTax dashboard
 image: 

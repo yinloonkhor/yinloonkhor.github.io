@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [portfolio]
 description: > 
   Examples of building segmentation
 image: 
