@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [blog]
 ---
 
 # Attention Is All You Need: A Gentle Dive into Transformers
