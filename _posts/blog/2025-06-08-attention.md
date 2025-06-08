@@ -8,6 +8,9 @@ image:
 ---
 
 # Attention Is All You Need: A Gentle Dive into Transformers
+
+📝 [Paper](https://arxiv.org/pdf/1706.03762)
+
 Transformers revolutionized natural language processing by replacing recurrence with attention, enabling models to understand context better, scale more efficiently, and outperform previous architectures on nearly every NLP task. Let’s walk through how this architecture works—from the input embeddings all the way to output generation.
 
 In this post, we’ll **deep dive into the original paper _“Attention Is All You Need”_**, unpacking how the Transformer architecture works—from input embeddings to multi-head attention to output generation.
