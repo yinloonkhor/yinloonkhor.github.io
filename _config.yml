@@ -309,7 +309,14 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  portfolio:
+    permalink:         /portfolio/:path/
+    output:            true
 
+  blog:
+    permalink:         /blog/:path/
+    output:            true
+    
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
