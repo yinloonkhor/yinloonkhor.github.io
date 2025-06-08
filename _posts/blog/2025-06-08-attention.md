@@ -6,6 +6,8 @@ categories: [blog]
 # Attention Is All You Need: A Gentle Dive into Transformers
 Transformers revolutionized natural language processing by replacing recurrence with attention, enabling models to understand context better, scale more efficiently, and outperform previous architectures on nearly every NLP task. Let’s walk through how this architecture works—from the input embeddings all the way to output generation.
 
+In this post, we’ll **deep dive into the original paper _“Attention Is All You Need”_**, unpacking how the Transformer architecture works—from input embeddings to multi-head attention to output generation.
+
 ---
 
 ## 1. Embeddings: Turning Words into Numbers
@@ -48,6 +50,9 @@ From our embedding matrix **(3 × 768)**, we project the vectors into three dist
 - **K (Key)**  
 - **V (Value)**  
 
+A clear explanation of queries, keys, and values can be found here: (StackExchange)[https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms].
+In other words, queries and keys are embeddings used to measure similarity, while values are embeddings used to generate the next word.
+
 These are calculated as:
 
 $$
@@ -62,7 +67,7 @@ $$
 \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V
 $$
 
-The division by $\sqrt{d_k}$ (where $d_k = 256$) helps stabilize gradients and prevents extremely large values that might squash softmax outputs.
+The division by \\(\sqrt{d_k}\\) (where \\(d_k = 256\\)) helps stabilize gradients and prevents extremely large values that might squash softmax outputs.
 
 Why do this? Because a word like **“apple”** can mean either a fruit or a tech brand. Attention lets the model decide which meaning is appropriate by emphasizing relevant context (e.g., “I ate an apple” vs. “I bought an Apple laptop”).
 
@@ -124,8 +129,8 @@ And it all started with a bold claim in 2017: **“Attention is all you need.”
 ---
 
 ### References and Further Reading
-- Vaswani et al., *Attention Is All You Need* (2017): https://arxiv.org/abs/1706.03762  
-- Illustrated Transformer by Jay Alammar: https://jalammar.github.io/illustrated-transformer/  
-- YouTube series by CodeEmporium: [Transformer Playlist](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)  
+- Vaswani et al., *Attention Is All You Need* (2017): [Arxiv](https://arxiv.org/pdf/1706.03762)
+- Illustrated Guide to Transformers Neural Network: A step by step explanation by The AI Hacker: [YouTube](https://www.youtube.com/watch?v=4Bdc55j80l8)
+- Natural Language Processing and Large Language Models series by Serrano.Academy: [YouTube Playlist](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)  
 - Detailed explanation of Q/K/V: [StackExchange](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
 
