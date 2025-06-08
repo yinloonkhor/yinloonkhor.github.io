@@ -143,7 +143,6 @@ And it all started with a bold claim in 2017: **“Attention is all you need.”
 ---
 
 ### References and Further Reading
-- Vaswani et al., *Attention Is All You Need* (2017): [Arxiv](https://arxiv.org/pdf/1706.03762)
 - Illustrated Guide to Transformers Neural Network: A step by step explanation by The AI Hacker: [YouTube](https://www.youtube.com/watch?v=4Bdc55j80l8)
 - Natural Language Processing and Large Language Models series by Serrano.Academy: [YouTube Playlist](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)  
 - Detailed explanation of Q/K/V: [StackExchange](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
