@@ -50,7 +50,7 @@ From our embedding matrix **(3 × 768)**, we project the vectors into three dist
 - **K (Key)**  
 - **V (Value)**  
 
-A clear explanation of queries, keys, and values can be found here: (StackExchange)[https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms].
+A clear explanation of queries, keys, and values can be found here: [StackExchange](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms).
 In other words, queries and keys are embeddings used to measure similarity, while values are embeddings used to generate the next word.
 
 These are calculated as:
@@ -106,7 +106,7 @@ Here’s an example:
 - Decoder input becomes `<start> I` → output "am"
 - And so on...
 
-During training, the entire output sentence **“<start> I am fine”** is passed in. **Masking** ensures that the model can’t "cheat" by looking at future tokens like "fine" when generating "I".
+During training, the entire output sentence **`“<start> I am fine”`** is passed in. **Masking** ensures that the model can’t "cheat" by looking at future tokens like "fine" when generating "I".
 
 Finally, a **linear layer + softmax** maps the decoder’s output to a large vocabulary (e.g., 10,000+ words), outputting probabilities for each word. The word with the highest probability becomes the model’s prediction.
 
