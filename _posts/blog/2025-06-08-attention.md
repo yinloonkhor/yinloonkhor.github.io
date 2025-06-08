@@ -42,7 +42,9 @@ These fixed encodings allow the model to learn relative positions effectively wi
 
 ## 3. Multi-Head Attention: The Heart of the Transformer
 
-![Attention Head](https://github.com/user-attachments/assets/3c63b7d7-c31f-4900-9748-a81957b96403)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c63b7d7-c31f-4900-9748-a81957b96403" alt="Attention Head">
+</p>
 
 Overview of Scaled Dot-Product Attention and Multi-Head Attention
 {:.figure}
