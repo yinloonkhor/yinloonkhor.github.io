@@ -1,6 +1,10 @@
 ---
 layout: post
 categories: [blog]
+description: > 
+  Transformer architecture
+image: 
+  path: https://github.com/user-attachments/assets/eca2af63-30e0-4ae6-bd82-1455977d2a0b
 ---
 
 # Attention Is All You Need: A Gentle Dive into Transformers
@@ -37,6 +41,10 @@ These fixed encodings allow the model to learn relative positions effectively wi
 ---
 
 ## 3. Multi-Head Attention: The Heart of the Transformer
+
+![Attention Head](https://github.com/user-attachments/assets/3c63b7d7-c31f-4900-9748-a81957b96403)
+Overview of Scaled Dot-Product Attention and Multi-Head Attention
+{:.figure}
 
 Attention mechanisms let the model **weigh the importance of different words in a sentence**, regardless of their distance from one another.
 
