@@ -37,3 +37,7 @@ Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
 - Programming Languages: Python, JavaScript, React, C++, HTML/CSS
 - Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, n8n, Git, Docker, Linux, MATLAB, Power BI
 - Certifications: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
+
+## 📝 Publications
+My full paper list can be found at [![](https://img.shields.io/badge/Google_Scholar-Yin-Loon_Khor-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gPvGSl8AAAAJ&hl=en&oi=ao)
+
