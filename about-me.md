@@ -33,6 +33,11 @@ Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
 - CGPA: 3.94/4.00 (First Class Honours)
 - Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning
 
+## 🏆 Competitions
+- Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
+- Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge, [[challenge link](https://orddc2024.sekilab.global/overview/)]
+- Top 10 Global Semi-Finalist of 2024 EY Open Science Data Challenge, [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
+
 ## 🛠️ Technical Skills and Certification
 - Programming Languages: Python, JavaScript, React, C++, HTML/CSS
 - Libraries and Tools: Pandas, NumPy, PyTorch, OpenCV, LangChain, FastAPI, Supabase, n8n, Git, Docker, Linux, MATLAB, Power BI
