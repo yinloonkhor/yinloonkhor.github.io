@@ -34,9 +34,9 @@ Universiti Tunku Abdul Rahman (UTAR), Sungai Long, Malaysia
 - Final Year Project: Smart Car Plate Recognition System using Multi-Task Learning
 
 ## 🏆 Competitions
-- Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, [[challenge link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard)] & [[project link](https://doubley-begc2024.github.io/)]
-- Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge, [[challenge link](https://orddc2024.sekilab.global/overview/)]
-- Top 10 Global Semi-Finalist of 2024 EY Open Science Data Challenge, [[challenge link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7)] & [[project_link](https://double-y-ey-challenge-2024.github.io/)]
+- Champion of IEEE Big Data Cup 2024 Building Extraction Generalization Challenge, [Challenge Link](https://www.kaggle.com/competitions/building-extraction-generalization-2024/leaderboard) & [Project Link](https://doubley-begc2024.github.io/)
+- Top 10 in IEEE Big Data Cup 2024 Optimized Road Damage Detection Challenge, [Challenge Link](https://orddc2024.sekilab.global/overview/)
+- Top 10 Global Semi-Finalist of 2024 EY Open Science Data Challenge, [Challenge Link](https://challenge.ey.com/challenges/past/tropical-cyclone-damage-assessment-lrrno2xm?id=6523d842d39bfc776beadda7) & [Project Link](https://double-y-ey-challenge-2024.github.io/)
 
 ## 🛠️ Technical Skills and Certification
 - Programming Languages: Python, JavaScript, React, C++, HTML/CSS
