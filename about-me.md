@@ -21,6 +21,7 @@ October 2022 – January 2023
 Industrial Trainee
 
 ## 🎓 Education
+2025 - Present
 {:.faded}
 **Master of Artificial Intelligence**<br>
 Universiti Malaya (UM), Malaysia
