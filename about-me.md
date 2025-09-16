@@ -9,6 +9,8 @@ Previously, he worked as a graduate trainee with the DFx team at Intel Corporati
 
 His research interests and expertise span machine learning, deep learning, computer vision, and large language models (LLMs). During his undergraduate studies, he actively pursued these areas through research and competition. He was the Champion of the IEEE Big Data Cup 2024 – Building Extraction Generalization Challenge, and one of the Top 10 Global Semi-Finalists in the 2024 EY Open Science Data Challenge. In addition, he has published two conference papers in the fields of deep learning and computer vision.
 
+My latest CV can be found at this [Google Docs](https://docs.google.com/document/d/1YE5wxl1Yy7p_4wn3O_Ek9joY1kHJqYNP/edit?usp=sharing&ouid=111603339437644440976&rtpof=true&sd=true)
+
 ## 💼 Working Experience
 September 2024 - August 2025
 {:.faded}
